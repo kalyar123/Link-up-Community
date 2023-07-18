@@ -1,0 +1,68 @@
+{
+  "name": "linkup",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.4",
+    "@fullcalendar/daygrid": "^6.1.4",
+    "@fullcalendar/interaction": "^6.1.4",
+    "@fullcalendar/react": "^6.1.4",
+    "@fullcalendar/timegrid": "^6.1.4",
+    "@react-google-maps/api": "^2.18.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@south-paw/react-vector-maps": "^3.2.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.2.2",
+    "bootstrap": "^5.3.0",
+    "emoji-picker-react": "^4.4.9",
+    "google-map-react": "^2.2.0",
+    "google-maps-react": "^2.0.6",
+    "jwt-decode": "^3.1.2",
+    "qibla": "^1.0.0",
+    "query-string": "^8.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-emoji": "^0.5.0",
+    "react-icons": "^4.8.0",
+    "react-jvectormap": "^0.0.16",
+    "react-redux": "^8.0.7",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "5.0.1",
+    "react-scroll-to-bottom": "^4.2.0",
+    "react-speech-kit": "^3.0.1",
+    "react-toastify": "^9.1.1",
+    "redux-persist": "^6.0.0",
+    "socket.io-client": "^4.6.1",
+    "store": "^2.0.12",
+    "styled-components": "^5.3.11",
+    "use-history": "^1.4.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
